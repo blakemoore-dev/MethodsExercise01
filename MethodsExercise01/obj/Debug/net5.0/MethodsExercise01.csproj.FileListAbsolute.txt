@@ -1,0 +1,16 @@
+C:\Users\blake\Desktop\repos\MethodsExercise01\MethodsExercise01\bin\Debug\net5.0\MethodsExercise01.exe
+C:\Users\blake\Desktop\repos\MethodsExercise01\MethodsExercise01\bin\Debug\net5.0\MethodsExercise01.deps.json
+C:\Users\blake\Desktop\repos\MethodsExercise01\MethodsExercise01\bin\Debug\net5.0\MethodsExercise01.runtimeconfig.json
+C:\Users\blake\Desktop\repos\MethodsExercise01\MethodsExercise01\bin\Debug\net5.0\MethodsExercise01.runtimeconfig.dev.json
+C:\Users\blake\Desktop\repos\MethodsExercise01\MethodsExercise01\bin\Debug\net5.0\MethodsExercise01.dll
+C:\Users\blake\Desktop\repos\MethodsExercise01\MethodsExercise01\bin\Debug\net5.0\ref\MethodsExercise01.dll
+C:\Users\blake\Desktop\repos\MethodsExercise01\MethodsExercise01\bin\Debug\net5.0\MethodsExercise01.pdb
+C:\Users\blake\Desktop\repos\MethodsExercise01\MethodsExercise01\obj\Debug\net5.0\MethodsExercise01.csproj.AssemblyReference.cache
+C:\Users\blake\Desktop\repos\MethodsExercise01\MethodsExercise01\obj\Debug\net5.0\MethodsExercise01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blake\Desktop\repos\MethodsExercise01\MethodsExercise01\obj\Debug\net5.0\MethodsExercise01.AssemblyInfoInputs.cache
+C:\Users\blake\Desktop\repos\MethodsExercise01\MethodsExercise01\obj\Debug\net5.0\MethodsExercise01.AssemblyInfo.cs
+C:\Users\blake\Desktop\repos\MethodsExercise01\MethodsExercise01\obj\Debug\net5.0\MethodsExercise01.csproj.CoreCompileInputs.cache
+C:\Users\blake\Desktop\repos\MethodsExercise01\MethodsExercise01\obj\Debug\net5.0\MethodsExercise01.dll
+C:\Users\blake\Desktop\repos\MethodsExercise01\MethodsExercise01\obj\Debug\net5.0\ref\MethodsExercise01.dll
+C:\Users\blake\Desktop\repos\MethodsExercise01\MethodsExercise01\obj\Debug\net5.0\MethodsExercise01.pdb
+C:\Users\blake\Desktop\repos\MethodsExercise01\MethodsExercise01\obj\Debug\net5.0\MethodsExercise01.genruntimeconfig.cache
